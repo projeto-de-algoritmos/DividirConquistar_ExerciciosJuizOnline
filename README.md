@@ -1,6 +1,6 @@
-# Exercícios Resolvido de Juiz Online
+# Exercícios Resolvidos de Juiz Online
 
-Temas:
+Tema:
 
 - D&C
 
@@ -13,17 +13,20 @@ Temas:
 
 ## Sobre
 
-Resolução dos exercícios do Beecrowd e LeetCode.
+Resolução dos exercícios do LeetCode.
 
-> [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)<br>
+> [4 - Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)<br>
 > [315 - Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)<br>
+> [148 - Sort List](https://leetcode.com/problems/sort-list/description/)<br>
 
 
 ## Screenshots
-
-![Median of Two Sorted Arrays](./MedianOfTwoSortedArrays/MedianOfTwoSortedArrays.png)
+### 4 - Median of Two Sorted Arrays
+![4 - Median of Two Sorted Arrays](./MedianOfTwoSortedArrays/MedianOfTwoSortedArrays.png)
 ### 315 - Count of Smaller Numbers After Self
 ![315 - Count of Smaller Numbers After Self](./315/315.PNG)
+### 148 - Sort List
+![148 - Sort List](./148/148.PNG)
 
 ## Instalação
 
@@ -33,7 +36,7 @@ Resolução dos exercícios do Beecrowd e LeetCode.
 
 Para rodar os exercícios basta clonar o respositório
 
-    git clone git@github.com:projeto-de-algoritmos/Grafos2-ExerciciosJuizOnline.git
+    git clone git@github.com:projeto-de-algoritmos/DividirConquistar_ExerciciosJuizOnline.git
 
 E executar os seguintes comandos dentro da pasta do arquivo pelo terminal:
 
@@ -45,8 +48,9 @@ E executar os seguintes comandos dentro da pasta do arquivo pelo terminal:
 
 Outra forma é subtmeter os códigos dos exercícios pelo juiz online:
 
-- [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+- [4 - Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 - [315 - Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)
+- [148 - Sort List](https://leetcode.com/problems/sort-list/description/)
 
 ## Outros
 
