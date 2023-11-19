@@ -16,10 +16,14 @@ Temas:
 Resolução dos exercícios do Beecrowd e LeetCode.
 
 > [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)<br>
+> [315 - Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)<br>
+
 
 ## Screenshots
 
 ![Median of Two Sorted Arrays](./MedianOfTwoSortedArrays/MedianOfTwoSortedArrays.png)
+### 315 - Count of Smaller Numbers After Self
+![315 - Count of Smaller Numbers After Self](./315/315.PNG)
 
 ## Instalação
 
@@ -42,6 +46,7 @@ E executar os seguintes comandos dentro da pasta do arquivo pelo terminal:
 Outra forma é subtmeter os códigos dos exercícios pelo juiz online:
 
 - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+- [315 - Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)
 
 ## Outros
 
