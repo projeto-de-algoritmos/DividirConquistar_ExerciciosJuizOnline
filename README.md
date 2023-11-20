@@ -24,7 +24,7 @@ Resolução dos exercícios do LeetCode.
 ## Screenshots
 
 ### 4 - Median of Two Sorted Arrays
-![4 - Median of Two Sorted Arrays](./MedianOfTwoSortedArrays/MedianOfTwoSortedArrays.png)
+![4 - Median of Two Sorted Arrays](./4/MedianOfTwoSortedArrays.png)
 
 ### 493 - Reverse Pairs
 ![493 - Reverse Pairs](./493/493.png)
