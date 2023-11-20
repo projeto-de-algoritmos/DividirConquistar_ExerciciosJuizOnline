@@ -62,4 +62,7 @@ Outra forma é subtmeter os códigos dos exercícios pelo juiz online:
 
 ## Outros
 
-[Vídeo de apresentação]()
+### Vídeos de apresentação
+
+[Vídeo de apresentação Brenno](https://youtu.be/RjwLIRYlb_s)<br>
+[Vídeo de apresentação Gabriel](https://youtu.be/XanvFo98w-0)
