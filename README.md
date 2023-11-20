@@ -16,15 +16,22 @@ Tema:
 Resolução dos exercícios do LeetCode.
 
 > [4 - Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)<br>
+> [493 - Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/)<br>
 > [315 - Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)<br>
 > [148 - Sort List](https://leetcode.com/problems/sort-list/description/)<br>
 
 
 ## Screenshots
+
 ### 4 - Median of Two Sorted Arrays
 ![4 - Median of Two Sorted Arrays](./MedianOfTwoSortedArrays/MedianOfTwoSortedArrays.png)
+
+### 493 - Reverse Pairs
+![493 - Reverse Pairs](./493/493.png)
+
 ### 315 - Count of Smaller Numbers After Self
 ![315 - Count of Smaller Numbers After Self](./315/315.PNG)
+
 ### 148 - Sort List
 ![148 - Sort List](./148/148.PNG)
 
@@ -49,8 +56,9 @@ E executar os seguintes comandos dentro da pasta do arquivo pelo terminal:
 Outra forma é subtmeter os códigos dos exercícios pelo juiz online:
 
 - [4 - Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
-- [315 - Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)
-- [148 - Sort List](https://leetcode.com/problems/sort-list/description/)
+- [493 - Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
+- [315 - Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
+- [148 - Sort List](https://leetcode.com/problems/sort-list/)
 
 ## Outros
 
